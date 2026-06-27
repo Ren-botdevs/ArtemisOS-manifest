@@ -1,7 +1,7 @@
 # ArtemisOS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LineageOS/android/main/logo.png" width="200" alt="ArtemisOS Logo Placeholder" />
+  <img src="https://raw.githubusercontent.com/Ren-botdevs/ArtemisOS-manifest/refs/heads/main/1782575429295.png" width="200" alt="ArtemisOS Logo Placeholder" />
 </p>
 
 <p align="center">
